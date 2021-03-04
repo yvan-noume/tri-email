@@ -1,0 +1,22 @@
+{
+  "name": "email-application-cli",
+  "version": "1.0.0",
+  "description": "Our application for the GL02 school project",
+  "main": "appEmail.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "theo.pennerat@utt.fr",
+  "license": "MIT/BSD",
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "canvas": "^2.6.1",
+    "colors": "^1.4.0",
+    "vega": "^5.17.0",
+    "vega-lite": "^4.17.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
